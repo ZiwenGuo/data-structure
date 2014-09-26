@@ -1,5 +1,5 @@
 /*
- * Author:  William Chia-Wei Cheng (bill.cheng@acm.org)
+ * Author:      William Chia-Wei Cheng (bill.cheng@acm.org)
  *
  * @(#)$Id: my402list.h,v 1.1 2013/08/22 04:14:30 william Exp $
  */
